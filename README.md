@@ -1,4 +1,8 @@
-https://github.com/Padmapriya102001/Padmapriya/blob/b6bb9630eb367e9e5bf70b7c6aa1837023e227d5/She_is_typing_on_a_laptop_occ.mp4
+<p align="center">
+
+  <img src=She_is_typing_on_a_laptop_occ.mp4>
+
+</p>
 
 # Hi there 👋 I'm Padmapriya R
 
