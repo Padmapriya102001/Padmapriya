@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="450">
+  <img src="https://user-images.githubusercontent.com/74038190/216655848-f1f6a2e5-2d4f-46f7-a2f8-b7c62d7b4f3b.gif" width="700">
 </p>
 
 # Hi there 👋 I'm Padmapriya R
