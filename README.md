@@ -48,13 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Padmapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Padmapriya102001&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmapriya102001&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
