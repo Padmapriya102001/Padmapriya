@@ -4,6 +4,8 @@
 
 # Hi there 👋 I'm Padmapriya R
 
+![](https://komarev.com/ghpvc/?username=Padmapriya102001&color=blue)
+
 📊 Data and Business Analyst with 4+ years of experience in Business Intelligence, Data Analytics, and Reporting Automation.
 
 🔹 Skilled in SQL, Python, Power BI, Tableau, Advanced Excel, and AWS
@@ -44,11 +46,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=padmapriya\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padmapriya\&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Padmapriya102001&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmapriya102001&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
